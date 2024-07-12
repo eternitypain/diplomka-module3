@@ -1,0 +1,18 @@
+<svg width="98.253906" height="98.253906" viewBox="0 0 98.2539 98.2539" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="0.000000" y1="49.126945" x2="98.253883" y2="49.126945" id="paint_linear_1_12983_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F7941D"/>
+			<stop offset="1.000000" stop-color="#27AAE1"/>
+		</linearGradient>
+		<linearGradient x1="23.428110" y1="26.314449" x2="70.802734" y2="26.314449" id="paint_linear_1_12984_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F7941D"/>
+			<stop offset="1.000000" stop-color="#27AAE1"/>
+		</linearGradient>
+	</defs>
+	<circle id="Ellipse 69" cx="49.126953" cy="49.126953" r="49.126953" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<circle id="Ellipse 69" cx="49.126953" cy="49.126953" r="48.126953" stroke="url(#paint_linear_1_12983_0)" stroke-opacity="1.000000" stroke-width="2.000000"/>
+	<path id="Polygon 4" d="M70.8 50L35.27 29.48L35.27 70.51L70.8 50Z" fill="url(#paint_linear_1_12984_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
